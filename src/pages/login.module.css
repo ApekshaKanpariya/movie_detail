@@ -1,0 +1,50 @@
+.main {
+    margin-top: 40px;
+    background-color: #ffeded;
+    height: 500px;
+    border-radius: 20px;
+}
+
+.main h1 {
+    color: #d8532b;
+}
+
+.toggle {
+    margin-top: 1rem;
+    background-color: transparent;
+    color: #d8532b;
+    border: none;
+    padding: 0.15rem 1.5rem;
+}
+
+.toggle:hover {
+    background-color: transparent;
+    color: #d8532b;
+}
+
+.bttn {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 16px 35px;
+    border-radius: 50px;
+    border: 1px solid;
+    text-transform: uppercase;
+    text-shadow: 2px 3px 8px rgb(0 0 0 / 10%);
+    -webkit-box-shadow: 0px 8px 25px 0px rgb(72 69 90 / 10%);
+    box-shadow: 0px 8px 25px 0px rgb(72 69 90 / 10%);
+    transition: all linear .3s;
+    -webkit-transition: all linear .3s;
+    color: white;
+    background: #d8532b;
+    border-color: #d8532b;
+}
+
+.bttn:hover {
+    color: white;
+    background: #48455a;
+    border-color: #48455a;
+    -webkit-transform: translateY(-3px);
+    transform: translateY(-3px);
+    -webkit-box-shadow: 0px 25px 60px 0px rgb(0 0 0 / 10%);
+    box-shadow: 0px 25px 60px 0px rgb(0 0 0 / 10%);
+}

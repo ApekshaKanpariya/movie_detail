@@ -1,0 +1,27 @@
+.title {
+    color: #d8532b;
+}
+
+.tpo {
+    margin-top: 50px;
+}
+
+.main {
+    margin-top: 50px;
+}
+
+.load {
+    margin-top: 50px;
+    color: #d8532b;
+}
+
+.spinner {
+    text-align: center;
+}
+
+.end {
+    color: #d8532b;
+    font-weight: 600;
+    line-height: 2.2;
+    font-size: 22px;
+}

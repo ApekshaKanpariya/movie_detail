@@ -1,0 +1,25 @@
+.main {
+    margin: 50px 200px 0 200px;
+}
+
+.header {
+    background-color: #f8dfd7;
+    color: #d8532b;
+    font-weight: 600;
+    line-height: 2.2;
+    font-size: 22px;
+}
+
+.title {
+    color: #d8532b;
+    font-weight: 500;
+}
+
+.load {
+    margin-top: 50px;
+    color: #d8532b;
+}
+
+.spinner {
+    text-align: center;
+}
